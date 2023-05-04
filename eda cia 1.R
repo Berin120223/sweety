@@ -29,4 +29,7 @@ summary(LuxuryLoanPortfolio0)
 plot(LuxuryLoanPortfolio$funded_amount, LuxuryLoanPortfolio$funded_date)
 #hist
 list(LuxuryLoanPortfolio$funded_amount, LuxuryLoanPortfolio$funded_date)
-
+a=23
+b=34
+c=a+b
+print(c)
